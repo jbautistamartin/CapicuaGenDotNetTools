@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{AECCAB2B-9
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGDbSchemaAnalizer", "src\CGDbSchemaAnalizer\CGDbSchemaAnalizer.csproj", "{CF479FD0-F5DF-4B45-B727-268D17D80882}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{F677E71E-A274-42FB-9A9A-B86DF3D925A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F677E71E-A274-42FB-9A9A-B86DF3D925A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F677E71E-A274-42FB-9A9A-B86DF3D925A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF479FD0-F5DF-4B45-B727-268D17D80882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF479FD0-F5DF-4B45-B727-268D17D80882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF479FD0-F5DF-4B45-B727-268D17D80882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF479FD0-F5DF-4B45-B727-268D17D80882}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
